@@ -24,3 +24,4 @@ def valid_phone_number?(phone)
 if phone.scan(\d{10}) == true
   true
 end
+end
